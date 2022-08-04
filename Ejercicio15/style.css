@@ -1,0 +1,65 @@
+
+body{
+    background-color: yellowgreen;
+    
+
+}
+.box {
+    position: relative;
+    border-radius:50%;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    -ms-border-radius:50%;
+    -o-border-radius:50%;
+    top: 0px;
+    left:0px;   
+}
+.impar{
+    background-color: red;
+}
+.par{
+    background-color:white;    
+}
+.circulo1{
+    width: 10px;
+    height: 10px;
+    border-top: 50%;
+    border-left: 50%;
+}
+.circulo2{
+    width: 15%;
+    height: 15%;
+}
+.circulo3{
+    width: 20%;
+    height:20%;
+}
+.circulo4{
+    width:25%;
+    height: 25%;
+}
+.circulo5{
+    width:25%;
+    height: 25%;
+}
+.circulo6{
+    width: 30%;
+    height: 30%;
+}
+.circulo7{
+    width: 35%;
+    height:35%;
+}
+.circulo8{
+    width: 40%;
+    height:40%;
+}
+.circulo9{
+    width: 45%;
+    height:45%;
+}
+.circulofinal{
+    background-color: dimgray;
+    width:50%;
+    height:50%;
+}
